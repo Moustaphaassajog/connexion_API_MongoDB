@@ -1,0 +1,12 @@
+# Ne pas envoyer les dépendances
+node_modules/
+
+# Ne pas envoyer les fichiers de configuration sensibles
+.env
+
+# Cache et logs
+*.log
+npm-debug.log*
+
+# Optionnel : fichiers perso
+.DS_Store
